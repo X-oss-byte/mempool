@@ -17,11 +17,11 @@
     "prettier": "./node_modules/.bin/prettier --write \"src/**/*.{js,ts}\""
   },
   "dependencies": {
-    "@types/node": "^16.11.41",
-    "express": "^4.18.0",
-    "puppeteer": "^15.3.2",
-    "puppeteer-cluster": "^0.23.0",
-    "typescript": "~4.7.4"
+    "@types/node": "^16.18.106",
+    "express": "^4.19.2",
+    "puppeteer": "^15.5.0",
+    "puppeteer-cluster": "^0.24.0",
+    "typescript": "~4.9.5"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.30.5",
